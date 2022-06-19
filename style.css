@@ -1,0 +1,17 @@
+body{
+    padding: 100px;
+}
+.login-form{
+
+    margin-top: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+    padding: 20px;
+}
+#second-page{
+    display: none;
+}
+.idea{
+
+    box-shadow: 5px 5px 20px gray;
+}
